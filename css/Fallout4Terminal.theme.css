@@ -21,6 +21,6 @@
 
 :root {
   --background: #000700 !important;
-  --text-color: #ffffff !important;
+  --text-color: #000000 !important;
   --highlight: var(--text-color) !important;
 }
