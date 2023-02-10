@@ -23,7 +23,7 @@
 
 :root {
   --background: #000700 !important;
-  --text-color: #FFFFFF !important;
+  --text-color: #ffffff !important;
   --highlight: var(--text-color) !important;
 }
 
